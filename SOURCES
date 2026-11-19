@@ -1,0 +1,8 @@
+# The sources the images are built from (build.sh checks out exactly these)
+KLIPPER_REPO=https://github.com/LibreQ1Pro/klipper.git
+KLIPPER_REF=b1e2c70c532a3eba6b1fe7c16cd2bcb2f56f75bc
+KATAPULT_REPO=https://github.com/LibreQ1Pro/katapult.git
+KATAPULT_REF=da27ed6c528b82293757305d5558b3bd5202f878
+# the .config files: firmware/klipper/ and firmware/katapult/ of this repository
+CONFIG_REPO=https://github.com/LibreQ1Pro/QIDI_Q1_Pro-Config.git
+CONFIG_REF=8be9261ea301448a7a2ff07b771f999fc23a6b81
